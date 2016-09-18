@@ -1,7 +1,7 @@
 # year-calendar
 Simple calendar to display whole year.
 
-![Image](https://img4.picload.org/image/rdrroddc/yearcalendar.jpg)
+![Image](https://picload.org/image/rdrroddc/yearcalendar.jpg)
 
 ## Initialisation
 ```html
