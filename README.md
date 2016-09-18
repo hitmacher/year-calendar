@@ -16,11 +16,11 @@ Simple calendar to display whole year.
 var calendar = new yearCalendar('calendar', 2016);
 ```
 ### Alternative ways
-Creating calendar without any parameters will append a calendar to <body>. Current year will be used:
+Creating calendar without any parameters will append a calendar to body tag. Current year will be used:
 ```javascript
 var calendar = new yearCalendar();
 ```
-You can set just a year. The calendar will be append to your <body>.
+You can set just a year. The calendar will be append to your body tag.
 ```javascript
 var calendar = new yearCalendar(2020);
 ```
