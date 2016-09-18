@@ -1,6 +1,8 @@
 # year-calendar
 Simple calendar to display whole year.
 
+![Image of Yaktocat](https://s12.postimg.io/urd7bpux9/year_Calendar.png)
+
 ## Initialisation
 ```html
 <script src="yearCalendar.js" type="text/javascript"></script>
