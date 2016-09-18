@@ -2,11 +2,11 @@
 Simple calendar to display whole year.
 
 ## Initialisation
-### Recomended way
 ```html
 <script src="yearCalendar.js" type="text/javascript"></script>
 <link href="yearCalendar.css" rel="stylesheet" type="text/css"/>
 ```
+### Recomended way
 ```html
 <div id="calendar"></div>
 ```
